@@ -15,4 +15,8 @@
 
 # Descrição
 
-- Inicialmente criei o index, onde ficou a página home, com descrição da página Tech Factors, nessa página ainda utilizei do carrosel para por itens de publicações no instagram da Tech Factors. Ainda no index, foi criado um footer com autoria da página e o link que direciona para o instagram da Tech Factors;
+- Inicialmente criei o index, onde ficou a página home, com descrição da página Tech Factors, nessa página ainda utilizei do carrosel para por itens de publicações do instagram da Tech Factors. Ainda no index, foi criado um footer com autoria da página e o link que direciona para o instagram da Tech Factors;
+- Também se criou um menu superior, neste tinha as opções: home, mulher tech que redireciona para o arquivo post.html, e contatos.
+<div style="display: inline_block"><br>
+<img align="center" alt="Taci-Js" height="30" width="40" src="home.png">
+</div>
