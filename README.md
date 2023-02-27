@@ -12,3 +12,7 @@
 - 1º: Eu tenho uma IG de T.I desde de 2020
 - 2º: Quando foi falado que no programa teria que fazer um projeto autoral fiquei animada, pois poderia este projeto que estou algum tempo querendo por em prática
 - 3º: O curso me ajudou nesta base
+
+# Descrição
+
+- Inicialmente criei o index, onde ficou a página home, com descrição da página Tech Factors, nessa página ainda utilizei do carrosel para por itens de publicações no instagram da Tech Factors. Ainda no index, foi criado um footer com autoria da página e o link que direciona para o instagram da Tech Factors;
