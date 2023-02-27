@@ -118,6 +118,7 @@
   
   .card details p {
     padding: 0 10px;
+    text-align: center;
   }
   
   @media (max-width: 768px) {
